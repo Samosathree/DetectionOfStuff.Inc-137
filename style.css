@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+#start, #NumberOfObjects, #status{
+    font-size: 18px;
+}
+#CopyRightFootter{
+position: fixed;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+background-color: blueviolet;
+color: hotpink;
+font-size: 15px;
+}
+canvas{
+    border:2px solid rgb(2, 255, 2);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(2, 255, 2);
+}
